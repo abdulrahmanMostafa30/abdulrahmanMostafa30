@@ -2,7 +2,6 @@
 
 Hi, I'm [Abdulrhaman Mostafa](https://abdulrahmanMostafa30.github.io/), a Full Stack developer using MEARN 🚀 from Egypt. Beside's programming, I enjoy eating food and Watching Movies.
 
-  <img align="right" alt="GIF" src="https://github.com/abdulrahmanMostafa30/abdulrahmanMostafa30/blob/main/Source/image.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help
 
