@@ -25,8 +25,8 @@ Hi, I'm [Abdulrhaman Mostafa](https://github.com/abdulrahmanMostafa30), a Full S
 ![google](https://img.shields.io/badge/Google_Cloud-20232A?style=social&logo=google-cloud&logoColor=4285F4)
 ![python](https://img.shields.io/badge/Python-20232A?style=social&logo=python&logoColor=3776AB)
 
-<img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanMostafa30&layout=compact"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanMostafa30&show_icons=true"/>
+<img align="left" height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdulrahmanMostafa30&layout=compact"/>
+<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdulrahmanMostafa30&show_icons=true"/>
 
 
 
