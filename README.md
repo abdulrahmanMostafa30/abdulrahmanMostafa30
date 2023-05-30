@@ -21,8 +21,6 @@ Hi, I'm [Abdulrhaman Mostafa](https://github.com/abdulrahmanMostafa30), a Full S
 ![git](https://img.shields.io/badge/git-20232A?style=social&logo=git&logoColor=EB4C27)
 ![docker](https://img.shields.io/badge/docker-20232A?style=social&logo=docker&logoColor=1993EF)
 ![heroku](https://img.shields.io/badge/Heroku-20232A?style=social&logo=heroku&logoColor=7410F0)
-![aws](https://img.shields.io/badge/AWS-20232A?style=social&logo=amazon-aws&logoColor=FF9900)
-![google](https://img.shields.io/badge/Google_Cloud-20232A?style=social&logo=google-cloud&logoColor=4285F4)
 ![python](https://img.shields.io/badge/Python-20232A?style=social&logo=python&logoColor=3776AB)
 
 <img align="left" height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdulrahmanMostafa30&layout=compact"/>
